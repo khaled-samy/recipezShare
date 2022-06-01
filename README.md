@@ -4,7 +4,7 @@
 - Our application is a recipes application, in which the user can add a specific recipe.
 
 ## links
-[heroku link](https://recipezshare.herokuapp.com/)
+[demo](https://recipezshare.herokuapp.com/)
 ## schema
 ![alt text](https://cdn.discordapp.com/attachments/950681061438926878/950706838981201970/recipes.png
 )
